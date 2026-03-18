@@ -35,7 +35,7 @@ I build production-ready backend and AI systems with a focus on scalability and 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:**  
 Python | JavaScript | C++
@@ -69,5 +69,5 @@ Git | GitHub | Netlify
 /
 ---
 
-### 👀 Fun Fact
-I don’t just build projects… I build systems that actually work in the real world 🚀
+###  Fun Fact
+I don’t just build projects… I build systems that actually work in the real world 
