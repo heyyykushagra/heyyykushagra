@@ -65,7 +65,9 @@ Git | GitHub | Netlify
 
 ###  Connect With Me
 -  Email: siinghkushagra@gmail.com  
--  LinkedIn: www.linkedin.com/in/kushagra-singh-devops
+-  LinkedIn: www.linkedin.com/in/kushagra-singh-aiengineer
+
+
 /
 ---
 
